@@ -84,7 +84,3 @@ in the database associated with the authenticated user.
 ## License
 
 [The Unlicense](https://opensource.org/licenses/unlicense)
-
-## Credit
-
-Created by [Jared Hanson](https://www.jaredhanson.me/)
