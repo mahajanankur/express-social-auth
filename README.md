@@ -1,4 +1,4 @@
-# todos-express-social
+# express-social-auth
 
 This app illustrates how to use [Passport](https://www.passportjs.org/) with
 [Express](https://expressjs.com/) to sign users in with [Google](https://www.google.com/),
@@ -10,8 +10,8 @@ this example as a starting point for your own web applications.
 To run this app, clone the repository and install dependencies:
 
 ```bash
-$ git clone https://github.com/passport/todos-express-social.git
-$ cd todos-express-social
+$ git clone https://github.com/mahajanankur/express-social-auth.git
+$ cd express-social-auth
 $ npm install
 ```
 
